@@ -1,0 +1,40 @@
+{
+  "session_id": "ws_1747782522282_wjvadtaox",
+  "origem": "whatsapp",
+  "versao": "v1-main",
+  "timestamp": "2025-05-20 23:08:40",
+  "criado_em": 1747782520,
+  "Rec": false,
+  "etapa_atual": "confirmar_endereco",
+  "CONTATO": "967388551",
+  "ultima_atualizacao": "2025-05-20 23:29:30",
+  "PROBLEMA_RELATADO": "71 anos e ja com rugas",
+  "marcos_progresso": [
+    "audio_introdutorio",
+    "entrega",
+    "perguntas"
+  ],
+  "PERGUNTAS_FEITAS": [
+    "So posso comprar em Julho ok"
+  ],
+  "NOME": "M",
+  "ENDEREÇO": "Rotunda dos Arneiros Bloco A2    2Dt    caldas da Rainha  2500-073",
+  "PACOTE_ESCOLHIDO": "1 mês de tratamento - RENOVAGOLD (74,98€)",
+  "DATA": "21/05/2025",
+  "finalizado": true,
+  "data_finalizacao": "2025-05-20 23:20:13",
+  "CONVERSA_IA": [
+    {
+      "pergunta": "So no fim do mes ok",
+      "resposta": "Claro! Agradeço pela sua mensagem. Pode me esclarecer melhor o que você quis dizer com \"no fim do mês\"? Estou aqui para ajudar com qualquer dúvida sobre o uso do RenovaGold, resultados esperados ou orientações adicionais. Estou aqui para garantir que você tenha a melhor experiência com o produto! 😊",
+      "timestamp": "2025-05-20T23:21:20.961Z",
+      "tipo": "pos_venda"
+    },
+    {
+      "pergunta": "So tenho dinheiro nessa altura",
+      "resposta": "Olá! 😊 Fico feliz em saber que você está com os recursos necessários para continuar com o tratamento. Se já realizou a compra, agradeço pela confiança! 🌟  \n\nAguarde a entrega do produto pelos CTT, que leva entre 1 a 4 dias úteis. Ao recebê-lo, você pagará apenas na entrega, conforme o que foi combinado.  \n\nSe tiver dúvidas sobre como usar o RenovaGold ou quiser dicas para otimizar os resultados, estou aqui para ajudar. Basta me dizer! 🌸✨  \n\nEspero que o tratamento traga a renovação e a confiança que você merece! 💖",
+      "timestamp": "2025-05-20T23:22:11.498Z",
+      "tipo": "pos_venda"
+    }
+  ]
+}
